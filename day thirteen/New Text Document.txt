@@ -1,0 +1,5 @@
+day 13
+print is the best option for finding the error
+use a debugger
+run after every part is created
+

@@ -1,0 +1,5 @@
+day 16 oops
+import class
+create object()
+object.method()
+object.attribute
